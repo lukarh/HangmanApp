@@ -1,0 +1,185 @@
+{
+  "gameWord": [
+    {
+      "word": "tease",
+      "id": 1
+    }
+  ],
+  "guessLetters": [
+    {
+      "id": "a",
+      "guessed": true,
+      "inGameWord": true
+    },
+    {
+      "id": "b",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "c",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "d",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "e",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "f",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "g",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "h",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "i",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "j",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "k",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "l",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "m",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "n",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "o",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "p",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "q",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "r",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "s",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "t",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "u",
+      "guessed": false,
+      "inGameWord": true
+    },
+    {
+      "id": "v",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "w",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "x",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "y",
+      "guessed": false,
+      "inGameWord": false
+    },
+    {
+      "id": "z",
+      "guessed": false,
+      "inGameWord": false
+    }
+  ],
+  "gameScore": [
+    {
+      "id": "userScore",
+      "wins": 7,
+      "losses": 6,
+      "guesses": 10
+    }
+  ],
+  "gameLetters": [
+    {
+      "id": 5,
+      "text": "a",
+      "guessed": false
+    },
+    {
+      "id": 6,
+      "text": "c",
+      "guessed": false
+    },
+    {
+      "id": 7,
+      "text": "e",
+      "guessed": false
+    },
+    {
+      "id": 1,
+      "text": "s",
+      "guessed": false
+    },
+    {
+      "id": 2,
+      "text": "u",
+      "guessed": false
+    },
+    {
+      "id": 3,
+      "text": "c",
+      "guessed": false
+    },
+    {
+      "id": 4,
+      "text": "h",
+      "guessed": false
+    }
+  ]
+}
