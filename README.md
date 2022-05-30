@@ -1,3 +1,13 @@
+# Hangman Application using React.js & Javascript
+
+![image](https://user-images.githubusercontent.com/65103724/171066943-49be54d5-1f53-479a-999c-9b8ea59b99f1.png)
+
+Functionalities
+- Player is represented with an empty field for each letter in word
+- Automatic Feedback on Letter Guesses, will display letter if guessed correctly
+- Users have only 10 incorrect guesses
+- Allows for keeping of simple statistics
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
